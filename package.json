@@ -1,0 +1,25 @@
+{
+    "name": "be-express-overlycomplexcounter-moseqmoseg",
+    "version": "1.0.0",
+    "description": "Create an Express server, which will simply keep track of a single number. Your server will have four endpoints:",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FbW-E01/be-express-overlycomplexcounter-moseqmoseg.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FbW-E01/be-express-overlycomplexcounter-moseqmoseg/issues"
+    },
+    "homepage": "https://github.com/FbW-E01/be-express-overlycomplexcounter-moseqmoseg#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.12"
+    }
+}
